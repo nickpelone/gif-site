@@ -1,8 +1,6 @@
 /* Random RGB CSS Color changer
     Copyright (c) 2014 Nick Pelone <npelone@unca.edu>
     All rights reserved.
-
-    Released under an MIT style license, ie. give me credit or make your own.
     Users: you're interested in the randomColors() function. Pass it an HTML DOM object to change
     the colors of that object.
 
